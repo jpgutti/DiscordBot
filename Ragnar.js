@@ -103,6 +103,7 @@ bot.login(token);
 
 // if(message.content.startsWith(`${prefix}kadu`)){
 // 		request("http://gotme.site-meute.com/query.php?action=rank&id=2867915&channel=kaduraiobeta&r=BR&user=$user&bot=AnhkBot", function(error, responde, body) {
+				// http://gotme.site-meute.com/query.php?action=rank&id=2209771&channel=general&r=BR&user=$user&bot=AnhkBot
 // 		console.log(body);
 // 		message.channel.send(body);
 	
